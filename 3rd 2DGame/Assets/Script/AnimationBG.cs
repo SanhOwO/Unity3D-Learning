@@ -8,7 +8,7 @@ public class AnimationBG : MonoBehaviour
 
     Vector2 movement;
 
-    public Vector2 speed = -1;
+    public Vector2 speed = new Vector2(0,-1);
 
     // Start is called before the first frame update
     void Start()
