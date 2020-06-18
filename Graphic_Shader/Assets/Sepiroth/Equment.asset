@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Equment
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: hand
+    m_Hash: 660750991
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 0}
+    - m_Name: book
+      m_Hash: -874142927
+      m_Sprite: {fileID: -2236384496076615377, guid: f222e053036650642aa1c72a404270bb,
+        type: 3}
