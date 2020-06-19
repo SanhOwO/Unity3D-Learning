@@ -156,7 +156,7 @@ TextureImporter:
       213: 4188734258684825620
     second: Sprite4_50
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -210,6 +210,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -529,11 +530,11 @@ TextureImporter:
         serializedVersion: 2
         x: 3244
         y: 3616
-        width: 1360
+        width: 1186
         height: 647
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 204, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -680,7 +681,7 @@ TextureImporter:
         height: 225
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 166, y: 0, z: 19, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -932,7 +933,7 @@ TextureImporter:
         height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 165, y: 0, z: 157, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -947,13 +948,13 @@ TextureImporter:
       name: Sprite4_33
       rect:
         serializedVersion: 2
-        x: 1521
+        x: 1528
         y: 2624
         width: 565
         height: 202
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 146, y: 0, z: 109, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1142,7 +1143,7 @@ TextureImporter:
         height: 160
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 220, y: 0, z: 220, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
