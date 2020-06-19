@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\FinalMovement.cs" />
+    <Compile Include="Assets\Scripts\LoadManager.cs" />
     <Compile Include="Assets\Scripts\ObjectPool.cs" />
     <Compile Include="Assets\Scripts\Shadow_Sprit.cs" />
     <Reference Include="UnityEngine">
